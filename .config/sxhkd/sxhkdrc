@@ -1,0 +1,5 @@
+# any_term_dropdown config
+F12
+    any_term_dropdown.sh
+# super + F1  
+#     systemctl suspend
